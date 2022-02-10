@@ -569,3 +569,171 @@ Received Import Request.
 Start importing Assets/Materials/Realistic/Stone/Stone.mat using Guid(08d49208428154bce899e089ed78d5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf331d62e6e64da2eace45e556198f0') in 0.012947 seconds 
   Import took 0.018582 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 535.925986 seconds.
+  path: Assets/Materials/Special/Splatter/white-paint-splat-png-white-paint-splash-11562901505kz4gwuxsec.png
+  artifactKey: Guid(ca504df4d998c7f4194ad5152af77f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Special/Splatter/white-paint-splat-png-white-paint-splash-11562901505kz4gwuxsec.png using Guid(ca504df4d998c7f4194ad5152af77f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87215f9f64dfc341c6838597528b241f') in 0.008489 seconds 
+  Import took 0.014064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.245320 seconds.
+  path: Assets/Materials/Stylized/Brick/Wall_Brick_AO.png
+  artifactKey: Guid(572981d23c249024a9189323bf08a0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Brick/Wall_Brick_AO.png using Guid(572981d23c249024a9189323bf08a0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae2c1e3e6f8d1374d06d66c9e807200') in 0.010661 seconds 
+  Import took 0.016011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Materials/Stylized/Brick/Wall_Brick_Metallic.png
+  artifactKey: Guid(a9975ebe1309ad04f85c4acbb5d3c25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Brick/Wall_Brick_Metallic.png using Guid(a9975ebe1309ad04f85c4acbb5d3c25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb870b8ae8690e5c9611a290f0d3b95d') in 0.014068 seconds 
+  Import took 0.019440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Materials/Stylized/Brick/Wall_Brick_Height.png
+  artifactKey: Guid(17aeb35c067cd4043bfd58e7e7b6cf6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Brick/Wall_Brick_Height.png using Guid(17aeb35c067cd4043bfd58e7e7b6cf6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db375ac5f40b75ae56b442417a2540e6') in 0.013579 seconds 
+  Import took 0.018664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Materials/Stylized/Brick/Wall_Brick_Normal.png
+  artifactKey: Guid(2c49d12fb89450b488277e7bfc402e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Brick/Wall_Brick_Normal.png using Guid(2c49d12fb89450b488277e7bfc402e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f31d1428fd7f785d7a2009b7496d1b') in 0.015929 seconds 
+  Import took 0.021304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Materials/Stylized/Brick/Wall_Brick_Basecolor_C.png
+  artifactKey: Guid(52b99d64baa59234e83d32cd8818704e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Brick/Wall_Brick_Basecolor_C.png using Guid(52b99d64baa59234e83d32cd8818704e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f94194b6f47891abe6937955f48a5f0') in 0.011426 seconds 
+  Import took 0.016677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.053647 seconds.
+  path: Assets/Materials/Stylized/Brick/Brick.mat
+  artifactKey: Guid(b0b80152534c7456d8a5ed630e630f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Brick/Brick.mat using Guid(b0b80152534c7456d8a5ed630e630f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b811751e4d4053f1b670ae7c73d8e676') in 0.012685 seconds 
+  Import took 0.018401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.246267 seconds.
+  path: Assets/Materials/Stylized/Grass/Grass.mat
+  artifactKey: Guid(52c85041b945f4556adcb6c3f30b7c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Grass/Grass.mat using Guid(52c85041b945f4556adcb6c3f30b7c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdbc40fe65e036418101a987d6976520') in 0.013482 seconds 
+  Import took 0.019184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 208.158040 seconds.
+  path: Assets/Materials/Stylized/Rock/Rock_Volcanic_C_AO.png
+  artifactKey: Guid(510237fea2ab4704ab5c5a0b5946020a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Rock/Rock_Volcanic_C_AO.png using Guid(510237fea2ab4704ab5c5a0b5946020a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b490c00d1a09cde56b0df21322c0393') in 0.011206 seconds 
+  Import took 0.017107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Materials/Stylized/Rock/Rock_Volcanic_C_Metallic.png
+  artifactKey: Guid(6f6d30f2b1eb4e04e8e9277f5fe0fde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Rock/Rock_Volcanic_C_Metallic.png using Guid(6f6d30f2b1eb4e04e8e9277f5fe0fde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f36f803e29ee74d641800126097117af') in 0.013415 seconds 
+  Import took 0.018540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Materials/Stylized/Rock/Rock_Volcanic_C_Normal.png
+  artifactKey: Guid(deca3a760cbc7544a905fd00cdef71e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Rock/Rock_Volcanic_C_Normal.png using Guid(deca3a760cbc7544a905fd00cdef71e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51dda8235ca84b0decacb90f9c93435') in 0.014254 seconds 
+  Import took 0.019454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Materials/Stylized/Rock/Rock_Volcanic_C_Basecolor.png
+  artifactKey: Guid(feea2cf97829c484a9cecfa8a63aba3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Rock/Rock_Volcanic_C_Basecolor.png using Guid(feea2cf97829c484a9cecfa8a63aba3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '869a660a7f9cdcdcc1ca4c8e12bd40df') in 0.012051 seconds 
+  Import took 0.017173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Materials/Stylized/Rock/Rock_Volcanic_C_Height.png
+  artifactKey: Guid(fc7bf058101db524e9667f074d338ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Rock/Rock_Volcanic_C_Height.png using Guid(fc7bf058101db524e9667f074d338ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd420535981136010084b803cead8a1bf') in 0.011455 seconds 
+  Import took 0.016754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.341416 seconds.
+  path: Assets/Materials/Stylized/Rock/Rock.mat
+  artifactKey: Guid(c43f1bead71434fd4b8a79f988655b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Rock/Rock.mat using Guid(c43f1bead71434fd4b8a79f988655b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e67135ad6ef51c78cbf9e97f881130') in 0.012401 seconds 
+  Import took 0.018118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.453919 seconds.
+  path: Assets/Materials/Stylized/Grass/Grass.mat
+  artifactKey: Guid(52c85041b945f4556adcb6c3f30b7c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Grass/Grass.mat using Guid(52c85041b945f4556adcb6c3f30b7c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62070ff261aa936de228c6b27e6cae5') in 0.122815 seconds 
+  Import took 0.130070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.621519 seconds.
+  path: Assets/Materials/Stylized/Brick/Brick.mat
+  artifactKey: Guid(b0b80152534c7456d8a5ed630e630f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Brick/Brick.mat using Guid(b0b80152534c7456d8a5ed630e630f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c810c0e3405c93baebc7416a44e9d56') in 0.035708 seconds 
+  Import took 0.043464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.396728 seconds.
+  path: Assets/Materials/Stylized/Stone/Wall_Stone_C_AO.png
+  artifactKey: Guid(df36af7543a587a45a81f2aa426c7309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Stone/Wall_Stone_C_AO.png using Guid(df36af7543a587a45a81f2aa426c7309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156e0c76e7ec570a47152a41046abd39') in 0.011647 seconds 
+  Import took 0.017115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Materials/Stylized/Stone/Wall_Stone_C_Basecolor.png
+  artifactKey: Guid(af59bdb6ca27dbd479831f98668cec63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Stone/Wall_Stone_C_Basecolor.png using Guid(af59bdb6ca27dbd479831f98668cec63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3917e03344ed2e30f11e2b3274f83b5a') in 0.011971 seconds 
+  Import took 0.017362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Materials/Stylized/Stone/Wall_Stone_C_Height.png
+  artifactKey: Guid(11a916f74a93ba74dbe74f6742bc177e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Stone/Wall_Stone_C_Height.png using Guid(11a916f74a93ba74dbe74f6742bc177e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde79d04326dc8e91d81e4e7f1621e18') in 0.012124 seconds 
+  Import took 0.017456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Materials/Stylized/Stone/Wall_Stone_C_Normal.png
+  artifactKey: Guid(b09fab64da4f9a14fa70faa21fbff23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Stone/Wall_Stone_C_Normal.png using Guid(b09fab64da4f9a14fa70faa21fbff23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0748de7fe2f81d51961f7318523a39f1') in 0.014612 seconds 
+  Import took 0.019951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Materials/Stylized/Stone/Wall_Stone_C_Metallic.png
+  artifactKey: Guid(77fe6b0eb0f7cd146b7eaa6dcd3abcf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Stylized/Stone/Wall_Stone_C_Metallic.png using Guid(77fe6b0eb0f7cd146b7eaa6dcd3abcf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212b3a42a3b2b253a5e0a3e1fc931c15') in 0.013740 seconds 
+  Import took 0.018934 seconds .
+
