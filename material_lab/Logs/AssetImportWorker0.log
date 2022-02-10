@@ -529,3 +529,43 @@ Received Import Request.
 Start importing Assets/Materials/Realistic/RockyGravel/RockyGravel.mat using Guid(7d6a206f1ddf94feea42179f40269041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46835d3b0afc4ba27b3b0d2e2351d2f6') in 0.013567 seconds 
   Import took 0.019290 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 415.812433 seconds.
+  path: Assets/Materials/Realistic/Stone/StoneDiffuse.png
+  artifactKey: Guid(d3611ef21c836ca4a9d891b300d87c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/Stone/StoneDiffuse.png using Guid(d3611ef21c836ca4a9d891b300d87c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38108e6a9cd42dc2a84eb3b8a6db00ed') in 0.022574 seconds 
+  Import took 0.029533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Materials/Realistic/Stone/StoneHeight.png
+  artifactKey: Guid(1d0720933ec23fc478e6560efab6f2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/Stone/StoneHeight.png using Guid(1d0720933ec23fc478e6560efab6f2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44343f42b9ff91c7429c51822579bf86') in 0.036610 seconds 
+  Import took 0.044218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Materials/Realistic/Stone/StoneNormal.png
+  artifactKey: Guid(1b86553f44aef9c4d9e647bd0564e6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/Stone/StoneNormal.png using Guid(1b86553f44aef9c4d9e647bd0564e6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7faedc7c7a0e1017d7c8c563003c760') in 0.036283 seconds 
+  Import took 0.043944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Materials/Realistic/Stone/StoneMetallicMap.png
+  artifactKey: Guid(b7db30566d058f6419fe9f2aa6bf9b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/Stone/StoneMetallicMap.png using Guid(b7db30566d058f6419fe9f2aa6bf9b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd278c23caed399b27a54ee474eef0892') in 0.014092 seconds 
+  Import took 0.019336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.981421 seconds.
+  path: Assets/Materials/Realistic/Stone/Stone.mat
+  artifactKey: Guid(08d49208428154bce899e089ed78d5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Realistic/Stone/Stone.mat using Guid(08d49208428154bce899e089ed78d5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf331d62e6e64da2eace45e556198f0') in 0.012947 seconds 
+  Import took 0.018582 seconds .
+
