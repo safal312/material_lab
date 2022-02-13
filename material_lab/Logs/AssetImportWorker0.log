@@ -379,3 +379,955 @@ Received Import Request.
 Start importing Assets/Materials/Realistic/rough_wood/rough_wood_nor_gl_4k.png using Guid(8d361f85e9c4344c8a20c0f7d2d2cde6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83089156aa668cbcc5126b5963c9b9e') in 0.054826 seconds 
   Import took 0.060586 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001871 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.234 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1235ms)
+		BeginReloadAssembly (166ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (75ms)
+		EndReloadAssembly (1006ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (359ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (331ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (112ms)
+				ProcessInitializeOnLoadAttributes (209ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2972 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 268.6 MB.
+System memory in use after: 268.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3666.
+Total: 4.413644 ms (FindLiveObjects: 0.401486 ms CreateObjectMapping: 0.184277 ms MarkObjects: 3.735972 ms  DeleteObjects: 0.090931 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1275.461935 seconds.
+  path: Assets/AllSkyFree/Cold Night/Cold Night Equirect.mat
+  artifactKey: Guid(eac2ef371405749e0bd050b4c3272f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cold Night/Cold Night Equirect.mat using Guid(eac2ef371405749e0bd050b4c3272f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e21b48a2bb405480922dc2198762497') in 0.224561 seconds 
+  Import took 0.233104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/AllSkyFree/Cold Night/Cold Night Equirect.png
+  artifactKey: Guid(97259d0c0ea9f491692be825da27978a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cold Night/Cold Night Equirect.png using Guid(97259d0c0ea9f491692be825da27978a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9451f14b5ceffd77e8d3c84e43c0d5') in 0.239528 seconds 
+  Import took 0.247169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.335228 seconds.
+  path: Assets/Scenes/Materials.unity
+  artifactKey: Guid(c8fc420beba843c4f826768aa7d7778b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Materials.unity using Guid(c8fc420beba843c4f826768aa7d7778b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c0161bd54628071d834b4cbdc63bd6') in 0.001674 seconds 
+  Import took 0.007127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.386009 seconds.
+  path: Assets/Scenes/Lighting.unity
+  artifactKey: Guid(1b9ba3915e51c7c49b174c9c1b898776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting.unity using Guid(1b9ba3915e51c7c49b174c9c1b898776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c3e55512a49b5072e5f9c926a25b38') in 0.001337 seconds 
+  Import took 0.006679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6535.172888 seconds.
+  path: Assets/Shaders/TextureHavenPBRDetailed.shadergraph
+  artifactKey: Guid(91ef1768c1e7e40fc818d27fc17dc7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/TextureHavenPBRDetailed.shadergraph using Guid(91ef1768c1e7e40fc818d27fc17dc7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1be6ae7b6d1f9e3a48d9631a86fc93f') in 0.220553 seconds 
+  Import took 0.226550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2359.558087 seconds.
+  path: Assets/Settings/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(748f32f3c1acf401fa0b36a38d8a9b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRenderPipelineAsset.asset using Guid(748f32f3c1acf401fa0b36a38d8a9b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e81db60b4ab88b58ec7631e59049829') in 0.292980 seconds 
+  Import took 0.298939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.638381 seconds.
+  path: Assets/AtmosphericHouse/Prefabs
+  artifactKey: Guid(eda907e7818a34da1bfdf9d015b4ac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs using Guid(eda907e7818a34da1bfdf9d015b4ac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c556fba9f48931feef5f9906244e86') in 0.001046 seconds 
+  Import took 0.006416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.065586 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props
+  artifactKey: Guid(1e523f412579b443baedc7f36e4bfcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props using Guid(1e523f412579b443baedc7f36e4bfcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1491eafc1b9343725da6974d585224') in 0.001008 seconds 
+  Import took 0.007074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.417392 seconds.
+  path: Assets/AtmosphericHouse/Materials/Basement_props_B.mat
+  artifactKey: Guid(79ea057d706a293458c379553eb3fa54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Basement_props_B.mat using Guid(79ea057d706a293458c379553eb3fa54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47926af10eb7892ae673bb5daffa7ba1') in 0.025165 seconds 
+  Import took 0.030949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/AtmosphericHouse/Materials/Office_props_clean.mat
+  artifactKey: Guid(7c0c87cf005d1744698d5c83c2b3c2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Office_props_clean.mat using Guid(7c0c87cf005d1744698d5c83c2b3c2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff3364a5dc6bed60a26d289c276f4fc') in 0.016945 seconds 
+  Import took 0.022276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/AtmosphericHouse/Materials/Books_clean.mat
+  artifactKey: Guid(74457c0de53d79445b9c98d4816f4672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Books_clean.mat using Guid(74457c0de53d79445b9c98d4816f4672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d855871e103f16eaa920a055dc7701') in 0.018282 seconds 
+  Import took 0.023626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/AtmosphericHouse/Materials/Small_table_props_clean.mat
+  artifactKey: Guid(c9060ab15dd8b9a40910cb87a7e419b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Small_table_props_clean.mat using Guid(c9060ab15dd8b9a40910cb87a7e419b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305afda7e61d47882a2ad0f0438a1a59') in 0.016182 seconds 
+  Import took 0.021579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/AtmosphericHouse/Materials/Paintings.mat
+  artifactKey: Guid(b4d479ac70c3b3a4b92e13cdb771e431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Paintings.mat using Guid(b4d479ac70c3b3a4b92e13cdb771e431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8af47a34cccd6e32c620511e6a2cfec') in 0.016115 seconds 
+  Import took 0.021845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/AtmosphericHouse/Materials/Carpets_persian_clean.mat
+  artifactKey: Guid(bf608dcebb00ced4782a343e28a03dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Carpets_persian_clean.mat using Guid(bf608dcebb00ced4782a343e28a03dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de14d7dc702e24f060b81c80f0a20691') in 0.016432 seconds 
+  Import took 0.021898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/AtmosphericHouse/Materials/Chairs_clean.mat
+  artifactKey: Guid(adc344c647c29e84cbff9667e6b7a3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Chairs_clean.mat using Guid(adc344c647c29e84cbff9667e6b7a3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539e0f0f8559e58d8116de5573a48d79') in 0.016135 seconds 
+  Import took 0.021626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/AtmosphericHouse/Materials/Lamps_A_on_clean.mat
+  artifactKey: Guid(f4944201cb28bc04d9a8a4b010128b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Lamps_A_on_clean.mat using Guid(f4944201cb28bc04d9a8a4b010128b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76420e7f33793adad42e6c00c8fb4858') in 0.355694 seconds 
+  Import took 0.361104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/AtmosphericHouse/Materials/Sofa_clean.mat
+  artifactKey: Guid(9fcb8f99e11fdfc4593953fcca292c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Sofa_clean.mat using Guid(9fcb8f99e11fdfc4593953fcca292c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64ac3531136442822bf147d30ad8b87') in 0.018648 seconds 
+  Import took 0.023980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/AtmosphericHouse/Materials/Sidetables_clean.mat
+  artifactKey: Guid(667fb094ec53ecf49860b4821b1424a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Sidetables_clean.mat using Guid(667fb094ec53ecf49860b4821b1424a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbcd047f8143bd2a56b22f4fd5357b8d') in 0.019214 seconds 
+  Import took 0.024621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/AtmosphericHouse/Materials/Misc_prop_set_clean.mat
+  artifactKey: Guid(5dd43fb3fc6b5e547ae39f8ce5e5f5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Misc_prop_set_clean.mat using Guid(5dd43fb3fc6b5e547ae39f8ce5e5f5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26207360a0b037672da3d275d0435469') in 0.015665 seconds 
+  Import took 0.021087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/AtmosphericHouse/Materials/Lamps_B_on_clean.mat
+  artifactKey: Guid(140029972682ed14f9ac6bd62e290260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Lamps_B_on_clean.mat using Guid(140029972682ed14f9ac6bd62e290260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63ec700b9b9f634e65289b4e67f8fb8') in 0.028015 seconds 
+  Import took 0.034631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/AtmosphericHouse/Materials/Interior_plants_clean.mat
+  artifactKey: Guid(1a1e874a51a4557498cd8a0a20b833a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Interior_plants_clean.mat using Guid(1a1e874a51a4557498cd8a0a20b833a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef1ad30b347389164dd6ab34ebe20a8') in 0.105712 seconds 
+  Import took 0.111203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.216374 seconds.
+  path: Assets/AtmosphericHouse/Colliders/Sofa_1seat_COL.FBX
+  artifactKey: Guid(c8d00ac2e05775d4ab4296bb0b3af90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Colliders/Sofa_1seat_COL.FBX using Guid(c8d00ac2e05775d4ab4296bb0b3af90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96f45c5ecb9bcfbfde53c6e83918bd1') in 0.514447 seconds 
+  Import took 0.520278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002061 seconds.
+  path: Assets/AtmosphericHouse/Colliders/Sofa_3seat_COL.FBX
+  artifactKey: Guid(eeb7e58e17f34e142b750272ac98ae6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Colliders/Sofa_3seat_COL.FBX using Guid(eeb7e58e17f34e142b750272ac98ae6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7a7d197e98af1dca83e9c29d803c3c8') in 0.019719 seconds 
+  Import took 0.025306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/AtmosphericHouse/Colliders/Sofa_2seat_COL.FBX
+  artifactKey: Guid(f90700ead96ec8840b3d688618b44ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Colliders/Sofa_2seat_COL.FBX using Guid(f90700ead96ec8840b3d688618b44ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81394a5d39cd9930dc4ad381ba559d29') in 0.020100 seconds 
+  Import took 0.025419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.466069 seconds.
+  path: Assets/AtmosphericHouse/Materials/Tables_clean.mat
+  artifactKey: Guid(10ce19ed6b94fa74bb7c54fdfbe56fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Tables_clean.mat using Guid(10ce19ed6b94fa74bb7c54fdfbe56fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a301d5ccb2dbe66e8cb4a103bffc764a') in 0.018780 seconds 
+  Import took 0.024504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/AtmosphericHouse/Materials/TV_computer_clean.mat
+  artifactKey: Guid(113bc94b9e89f924f828742980d6b02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/TV_computer_clean.mat using Guid(113bc94b9e89f924f828742980d6b02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a56318a6043b668e36bbc3f89e816eb0') in 0.017417 seconds 
+  Import took 0.023043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.888456 seconds.
+  path: Assets/AtmosphericHouse/Materials/Workdesk_clean.mat
+  artifactKey: Guid(2107cc34eab53ab48b16ea8f7589aee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Workdesk_clean.mat using Guid(2107cc34eab53ab48b16ea8f7589aee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '483468303ef4566b6481e6695cfda24d') in 0.017859 seconds 
+  Import took 0.023614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.289980 seconds.
+  path: Assets/AtmosphericHouse/Textures/Clean/Lamps_A/Lamps_A_on_clean_BaseColor.png
+  artifactKey: Guid(50f420c860433114eb2d97977fb05831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Textures/Clean/Lamps_A/Lamps_A_on_clean_BaseColor.png using Guid(50f420c860433114eb2d97977fb05831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f91cf9014284d4480a008113785c2c') in 0.010875 seconds 
+  Import took 0.016715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/AtmosphericHouse/Textures/Clean/Lamps_B/Lamps_B_clean_MaskMap.png
+  artifactKey: Guid(a6073c7fbab64674eab4c1bc85c59879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Textures/Clean/Lamps_B/Lamps_B_clean_MaskMap.png using Guid(a6073c7fbab64674eab4c1bc85c59879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6409adb212a9a374b1b473dd5a0960') in 0.015953 seconds 
+  Import took 0.022112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/AtmosphericHouse/Textures/Clean/Lamps_A/Lamps_A_on_clean_MaskMap.png
+  artifactKey: Guid(05404adc3f01b604a83e1b0dd66eaa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Textures/Clean/Lamps_A/Lamps_A_on_clean_MaskMap.png using Guid(05404adc3f01b604a83e1b0dd66eaa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54869b7ef7312889672b9b964c58ac71') in 0.009628 seconds 
+  Import took 0.015127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/AtmosphericHouse/Textures/Clean/Lamps_B/Lamps_B_clean_Normal.png
+  artifactKey: Guid(804aad467c022a8428811d5fd0497350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Textures/Clean/Lamps_B/Lamps_B_clean_Normal.png using Guid(804aad467c022a8428811d5fd0497350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52111d9da8effbc270392e8b7f68936c') in 0.016122 seconds 
+  Import took 0.022368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/AtmosphericHouse/Textures/Clean/Lamps_A/Lamps_A_on_clean_Emissive.png
+  artifactKey: Guid(c02c07b1ab412434390c385d97c7e48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Textures/Clean/Lamps_A/Lamps_A_on_clean_Emissive.png using Guid(c02c07b1ab412434390c385d97c7e48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f6f0716afc42fdde098eeb55865df6') in 0.009453 seconds 
+  Import took 0.014931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/AtmosphericHouse/Textures/Clean/Lamps_B/Lamps_B_clean_BaseColor.png
+  artifactKey: Guid(43b9523605f38a24190f6c52dcf0024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Textures/Clean/Lamps_B/Lamps_B_clean_BaseColor.png using Guid(43b9523605f38a24190f6c52dcf0024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c072b7b10242d0c488da03381db498') in 0.010584 seconds 
+  Import took 0.015977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/AtmosphericHouse/Textures/Clean/Lamps_B/Lamps_B_clean_Emissive.png
+  artifactKey: Guid(56037a56e9ffd2e45a6efe9043bf5a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Textures/Clean/Lamps_B/Lamps_B_clean_Emissive.png using Guid(56037a56e9ffd2e45a6efe9043bf5a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d815fd494652b43125a1f78b3c87e1e') in 0.012622 seconds 
+  Import took 0.017953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/AtmosphericHouse/Textures/Clean/Lamps_A/Lamps_A_on_clean_Normal.png
+  artifactKey: Guid(aa7374b303b2a8549bcdbe7b82ab696e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Textures/Clean/Lamps_A/Lamps_A_on_clean_Normal.png using Guid(aa7374b303b2a8549bcdbe7b82ab696e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72753f9e12f573a39384e9ae08ddc50') in 0.012113 seconds 
+  Import took 0.017628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.764031 seconds.
+  path: Assets/Materials/Plaster/Blue Plaster.mat
+  artifactKey: Guid(7e4ab0e97cf797f4aac6f16a4ccbc048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Plaster/Blue Plaster.mat using Guid(7e4ab0e97cf797f4aac6f16a4ccbc048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda5857032fea725f26aa27e1d465d40') in 0.112622 seconds 
+  Import took 0.118675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Interior_plants/Interior_plant_A.prefab
+  artifactKey: Guid(2591a571534d65f4d9d5dc65bc2ddf46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Interior_plants/Interior_plant_A.prefab using Guid(2591a571534d65f4d9d5dc65bc2ddf46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6315ed615e0e3839f81b21a17cd4b6f2') in 0.161942 seconds 
+  Import took 0.167384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002115 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Interior_plant_A.FBX
+  artifactKey: Guid(1802d78babd62434c848f94e3fd4fdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Interior_plant_A.FBX using Guid(1802d78babd62434c848f94e3fd4fdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f3c3b5dedf4772d2a3bc44f82dc7f4b') in 0.022688 seconds 
+  Import took 0.028474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Interior_plant_C.FBX
+  artifactKey: Guid(0653a75c2678c9240b7d96753b83bed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Interior_plant_C.FBX using Guid(0653a75c2678c9240b7d96753b83bed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b34058892a41e49f68d7e6b5096467d') in 0.025573 seconds 
+  Import took 0.031407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Interior_plant_B.FBX
+  artifactKey: Guid(9c5dcf253dbb39643b4f5c41a13fe694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Interior_plant_B.FBX using Guid(9c5dcf253dbb39643b4f5c41a13fe694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8f90432a7ff885ba33835b68fd8699') in 0.025460 seconds 
+  Import took 0.031040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Interior_plants/Interior_plant_C.prefab
+  artifactKey: Guid(24b456f4fa4053c498cfbebf996a4209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Interior_plants/Interior_plant_C.prefab using Guid(24b456f4fa4053c498cfbebf996a4209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c0fe0c857a415281d7b61b12cc3d3a5') in 0.018214 seconds 
+  Import took 0.023721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Interior_plants/Interior_plant_B.prefab
+  artifactKey: Guid(6321017e46f06944ea712c6fbc6c92fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Interior_plants/Interior_plant_B.prefab using Guid(6321017e46f06944ea712c6fbc6c92fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf78dbac2bd667b58e397ed0b974f81') in 0.019879 seconds 
+  Import took 0.025202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.653417 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_ceiling_ball.FBX
+  artifactKey: Guid(865595e2916cf5b4986e1775fb652d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_ceiling_ball.FBX using Guid(865595e2916cf5b4986e1775fb652d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0196e14fc099a5c5da05c22201923d04') in 0.080841 seconds 
+  Import took 0.086442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_ceiling_cone_B.FBX
+  artifactKey: Guid(2fae858c9696d074c9876697ea67094a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_ceiling_cone_B.FBX using Guid(2fae858c9696d074c9876697ea67094a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6440c2124e720359bc46ef13f838a7a2') in 0.071507 seconds 
+  Import took 0.076898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_round.prefab
+  artifactKey: Guid(4e27f85933c44cc42893d4a4312fdf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_round.prefab using Guid(4e27f85933c44cc42893d4a4312fdf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c99d26260e0d82bbd55d22da8086984') in 0.029854 seconds 
+  Import took 0.036637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_ball.prefab
+  artifactKey: Guid(a076cfe78dd2d5e419f1c00ba249fd97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_ball.prefab using Guid(a076cfe78dd2d5e419f1c00ba249fd97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3260a60cc6d125425c85ebc669e6fa58') in 0.015711 seconds 
+  Import took 0.021179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_cone_B.prefab
+  artifactKey: Guid(de121d55bf30c984db8e9187c15e5428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_ceiling_cone_B.prefab using Guid(de121d55bf30c984db8e9187c15e5428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf1a8291fca42dff5a21ff4f3d96f35') in 0.015769 seconds 
+  Import took 0.021180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_cellar_wall.FBX
+  artifactKey: Guid(38a0612bfbef2e74787afaad35862cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_cellar_wall.FBX using Guid(38a0612bfbef2e74787afaad35862cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0196a11b8575a5fbbee3568f0959df') in 0.033226 seconds 
+  Import took 0.039869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab
+  artifactKey: Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Prefabs/Props/Lamps/Lamp_cellar_wall.prefab using Guid(97ca9b1d34afc2e4296a12d891a5f136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1666d902ed6add810dbb324235e7377') in 0.029194 seconds 
+  Import took 0.036452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_ceiling_round.FBX
+  artifactKey: Guid(940e5285623885642b17a3d0d783f0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_ceiling_round.FBX using Guid(940e5285623885642b17a3d0d783f0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b16aff684d4a234c1f43b2176b0cb5b') in 0.033920 seconds 
+  Import took 0.040727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.065235 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Book_set_A.FBX
+  artifactKey: Guid(70ca7756b3c989949be69d9ffb55f227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Book_set_A.FBX using Guid(70ca7756b3c989949be69d9ffb55f227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad737494189a6038e82bb182e12aa6a') in 0.033094 seconds 
+  Import took 0.038687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_central_unit.FBX
+  artifactKey: Guid(0bb9a50dc57c3e544945e28998edcd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_central_unit.FBX using Guid(0bb9a50dc57c3e544945e28998edcd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e596e1d2d97797c2f2d3b3f4979f608') in 0.020783 seconds 
+  Import took 0.026231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Carpet_persian_B.FBX
+  artifactKey: Guid(399faefe1c5ab9242b7178e881501d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Carpet_persian_B.FBX using Guid(399faefe1c5ab9242b7178e881501d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfde0a91c4330bb65d61ae144866d6fb') in 0.021676 seconds 
+  Import took 0.026942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_mouse.FBX
+  artifactKey: Guid(eaf252a8876abab40bc7ad4cd05197f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_mouse.FBX using Guid(eaf252a8876abab40bc7ad4cd05197f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5dd5f0ec39c771a1cd8064d103f8bb') in 0.022788 seconds 
+  Import took 0.028243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Chair_wooden.FBX
+  artifactKey: Guid(d11fd38820ad9d143b23b6945079514a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Chair_wooden.FBX using Guid(d11fd38820ad9d143b23b6945079514a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ddcc23a8dd2e77d7274f36ccf9f0b57') in 0.018343 seconds 
+  Import took 0.023891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Bookcase_B.FBX
+  artifactKey: Guid(9f0dbb4454112d849934f22a7ebf058b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Bookcase_B.FBX using Guid(9f0dbb4454112d849934f22a7ebf058b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0af8001020d7b8cdff32e74feaa4c85') in 0.021086 seconds 
+  Import took 0.026623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Book_set_G.FBX
+  artifactKey: Guid(97c371abad8630449b4d921c9052aef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Book_set_G.FBX using Guid(97c371abad8630449b4d921c9052aef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7802efc024b9078ae2ec32d1067ca302') in 0.034305 seconds 
+  Import took 0.039752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Cardboard_box_A.FBX
+  artifactKey: Guid(2fb3fd0d46d4fef42b978a4d4c5af3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Cardboard_box_A.FBX using Guid(2fb3fd0d46d4fef42b978a4d4c5af3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05fa3f4278ab0ec0479b92c5d68fe1d9') in 0.018520 seconds 
+  Import took 0.023775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Carpet_persian_A.FBX
+  artifactKey: Guid(e72c9e9b2f63b7847b693006d1474b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Carpet_persian_A.FBX using Guid(e72c9e9b2f63b7847b693006d1474b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d41af2fa106847ea4ae547b37bcdde3') in 0.019747 seconds 
+  Import took 0.025207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Book_set_F.FBX
+  artifactKey: Guid(b15c9732295a02049bf46762be938f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Book_set_F.FBX using Guid(b15c9732295a02049bf46762be938f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '123d709672dbd9e45027d888ac8d7184') in 0.035775 seconds 
+  Import took 0.041381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Cardboard_box_B.FBX
+  artifactKey: Guid(f682a35e797dcf649ac874e9ecfbaf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Cardboard_box_B.FBX using Guid(f682a35e797dcf649ac874e9ecfbaf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec36f0595ca21c9e89a73dd1c680de99') in 0.075137 seconds 
+  Import took 0.080565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_keyboard.FBX
+  artifactKey: Guid(28e566b372dbf1242addf0f5eeae36d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_keyboard.FBX using Guid(28e566b372dbf1242addf0f5eeae36d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f487c9f6648fbc1be16f1c47093b00') in 0.018150 seconds 
+  Import took 0.023470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_mousepad.FBX
+  artifactKey: Guid(3a77740afa00f834d8f75a517d8710d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_mousepad.FBX using Guid(3a77740afa00f834d8f75a517d8710d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08162fb49bb90063e4419c7906b37cef') in 0.021407 seconds 
+  Import took 0.026995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.754215 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_screen.FBX
+  artifactKey: Guid(4205edbfb2966c14c9597a5ab8a389c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Computer_screen.FBX using Guid(4205edbfb2966c14c9597a5ab8a389c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368f402bf1e853cdf3164040c8500e4d') in 0.017467 seconds 
+  Import took 0.023077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Folder_set_D.FBX
+  artifactKey: Guid(8c89c3b7df1705f4387f4ff81452cbaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Folder_set_D.FBX using Guid(8c89c3b7df1705f4387f4ff81452cbaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b7712b2934a96928fc897d31f3c405') in 0.019249 seconds 
+  Import took 0.024800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.479514 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_table_shade.FBX
+  artifactKey: Guid(7ed664bf04fbdba4689dfc48dd1bb586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_table_shade.FBX using Guid(7ed664bf04fbdba4689dfc48dd1bb586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88fb03d485f19362e42b7185ee0e5c3') in 0.043825 seconds 
+  Import took 0.050990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.248536 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_table_work.FBX
+  artifactKey: Guid(eb093dee98eba9f468c4a7bcfaab8422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Lamp_table_work.FBX using Guid(eb093dee98eba9f468c4a7bcfaab8422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5cb17c513769ccabcfc0d7ab2ca5aa') in 0.032577 seconds 
+  Import took 0.039540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Magazine_A.FBX
+  artifactKey: Guid(9039e504a94a4bb4d9afe8d7b25b6e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Magazine_A.FBX using Guid(9039e504a94a4bb4d9afe8d7b25b6e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b07975cfd0747a792210b4f74322d8a') in 0.020601 seconds 
+  Import took 0.026187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Magazine_B.FBX
+  artifactKey: Guid(ddb9dcf565a289c47a8000ddef894589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Magazine_B.FBX using Guid(ddb9dcf565a289c47a8000ddef894589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6012fa53525d17573d7ff7db13c4d800') in 0.022337 seconds 
+  Import took 0.028169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Painting_I.FBX
+  artifactKey: Guid(de8fa9ae293b5f14aab4f6c08e61f5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Painting_I.FBX using Guid(de8fa9ae293b5f14aab4f6c08e61f5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb3fb5182d7f956a297eb91a249298ea') in 0.019044 seconds 
+  Import took 0.024510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.380631 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Painting_Q.FBX
+  artifactKey: Guid(1aeb691be0dd45a488be6fa46c5d671f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Painting_Q.FBX using Guid(1aeb691be0dd45a488be6fa46c5d671f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b50dc14997d720a09d92a7f8a61ec7') in 0.017097 seconds 
+  Import took 0.022840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Painting_R.FBX
+  artifactKey: Guid(b78d400ff13281243bf7bdbe5cee2e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Painting_R.FBX using Guid(b78d400ff13281243bf7bdbe5cee2e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929ed866120b873eeb6c8ac829dd0a4b') in 0.019614 seconds 
+  Import took 0.025127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 872.928174 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Papers_pile_B.FBX
+  artifactKey: Guid(fc8fe50ee2a4029408e8e968fc5484ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Papers_pile_B.FBX using Guid(fc8fe50ee2a4029408e8e968fc5484ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455ca55352fb8d83c43d4aaefa524ff6') in 0.019440 seconds 
+  Import took 0.025314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props/Pencil_holder.FBX
+  artifactKey: Guid(42ddaf584b714e5459066ae28838e683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props/Pencil_holder.FBX using Guid(42ddaf584b714e5459066ae28838e683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84ea71c12c615e205b7b8cb39bd60d7e') in 0.018358 seconds 
+  Import took 0.023929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 400.555781 seconds.
+  path: Assets/AtmosphericHouse/Meshes/Meshes_props
+  artifactKey: Guid(8f0ed3d1938604bed8b3d22e04d18da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Meshes/Meshes_props using Guid(8f0ed3d1938604bed8b3d22e04d18da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9dfbaf22e91c34ef5995aba9c6a843e') in 0.000986 seconds 
+  Import took 0.006500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1400.096681 seconds.
+  path: Assets/Scenes/Lighting/LightingData.asset
+  artifactKey: Guid(3f43d419ecf1448ef98574df1b808698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/LightingData.asset using Guid(3f43d419ecf1448ef98574df1b808698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1db8431913688448ba45e3ed0b82951') in 0.005182 seconds 
+  Import took 0.010937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-0_comp_dir.png
+  artifactKey: Guid(f496d1e80f27a402484a96a708ae495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-0_comp_dir.png using Guid(f496d1e80f27a402484a96a708ae495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45503a4190bc3fdadef1981de4e2f7b5') in 0.007871 seconds 
+  Import took 0.013233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-1_comp_light.exr
+  artifactKey: Guid(e3085a2656b3f4739943ee9670dcde02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-1_comp_light.exr using Guid(e3085a2656b3f4739943ee9670dcde02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b29da86fc3e91b2956de82035e10d5e0') in 0.332976 seconds 
+  Import took 0.338439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003068 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-0_comp_light.exr
+  artifactKey: Guid(35cff25dd69ec4922b4ee7302be6a7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-0_comp_light.exr using Guid(35cff25dd69ec4922b4ee7302be6a7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340f3fee117d53967d336b6fe5542151') in 0.009875 seconds 
+  Import took 0.015390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Scenes/Lighting/ReflectionProbe-0.exr
+  artifactKey: Guid(5f9b2292f15e04632be9dcfd352c0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/ReflectionProbe-0.exr using Guid(5f9b2292f15e04632be9dcfd352c0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992d2fc4dd371cb55b6facde804f9ee1') in 0.020593 seconds 
+  Import took 0.026175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-1_comp_dir.png
+  artifactKey: Guid(9a7a1897b79834e36aa80043724c2bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-1_comp_dir.png using Guid(9a7a1897b79834e36aa80043724c2bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b680c8cad7d4fc9ddcbe12deb9dba5') in 0.009337 seconds 
+  Import took 0.014793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 276.867158 seconds.
+  path: Assets/Scenes/Lighting/LightingData.asset
+  artifactKey: Guid(3f43d419ecf1448ef98574df1b808698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/LightingData.asset using Guid(3f43d419ecf1448ef98574df1b808698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01604f74b65d86c28b0a809c426098bc') in 0.005912 seconds 
+  Import took 0.011880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-0_comp_dir.png
+  artifactKey: Guid(f496d1e80f27a402484a96a708ae495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-0_comp_dir.png using Guid(f496d1e80f27a402484a96a708ae495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a1aaf2ed1ce168dfa5f406e178ed0b') in 0.010695 seconds 
+  Import took 0.015900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-1_comp_light.exr
+  artifactKey: Guid(e3085a2656b3f4739943ee9670dcde02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-1_comp_light.exr using Guid(e3085a2656b3f4739943ee9670dcde02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91fe833dfbf057c5e5655caf492348e0') in 0.010585 seconds 
+  Import took 0.016143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-0_comp_light.exr
+  artifactKey: Guid(35cff25dd69ec4922b4ee7302be6a7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-0_comp_light.exr using Guid(35cff25dd69ec4922b4ee7302be6a7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b6b623032f1a8664d14a76a88b80a5') in 0.010441 seconds 
+  Import took 0.015978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-1_comp_dir.png
+  artifactKey: Guid(9a7a1897b79834e36aa80043724c2bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-1_comp_dir.png using Guid(9a7a1897b79834e36aa80043724c2bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a5d6725d35a39dfb7f8a9453faa47c') in 0.009317 seconds 
+  Import took 0.015149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 147.737260 seconds.
+  path: Assets/Scenes/Lighting/LightingData.asset
+  artifactKey: Guid(3f43d419ecf1448ef98574df1b808698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/LightingData.asset using Guid(3f43d419ecf1448ef98574df1b808698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9deb53a4da14694646d23c82f1eeae93') in 0.005793 seconds 
+  Import took 0.011407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-0_comp_dir.png
+  artifactKey: Guid(f496d1e80f27a402484a96a708ae495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-0_comp_dir.png using Guid(f496d1e80f27a402484a96a708ae495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9a21e7a91d55a9558c23b526fd7b46') in 0.012401 seconds 
+  Import took 0.017729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-1_comp_light.exr
+  artifactKey: Guid(e3085a2656b3f4739943ee9670dcde02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-1_comp_light.exr using Guid(e3085a2656b3f4739943ee9670dcde02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084c253186ebf4935b96dffa2ed21501') in 0.011730 seconds 
+  Import took 0.017224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-0_comp_light.exr
+  artifactKey: Guid(35cff25dd69ec4922b4ee7302be6a7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-0_comp_light.exr using Guid(35cff25dd69ec4922b4ee7302be6a7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9be0a48798e932372afc75c88db501') in 0.013621 seconds 
+  Import took 0.019240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Scenes/Lighting/Lightmap-1_comp_dir.png
+  artifactKey: Guid(9a7a1897b79834e36aa80043724c2bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lighting/Lightmap-1_comp_dir.png using Guid(9a7a1897b79834e36aa80043724c2bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b2c624bfa1cbb9bed2c934e31858a59') in 0.009847 seconds 
+  Import took 0.015333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.654784 seconds.
+  path: Assets/AtmosphericHouse/Materials/Lamps_A_on_clean.mat
+  artifactKey: Guid(f4944201cb28bc04d9a8a4b010128b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Lamps_A_on_clean.mat using Guid(f4944201cb28bc04d9a8a4b010128b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2590cdfb946969f617a8dcaad38de8fc') in 0.015252 seconds 
+  Import took 0.021284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/AtmosphericHouse/Materials/Small_table_props_clean.mat
+  artifactKey: Guid(c9060ab15dd8b9a40910cb87a7e419b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Small_table_props_clean.mat using Guid(c9060ab15dd8b9a40910cb87a7e419b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2933273a5c8987ce3f64cbf387f9489') in 0.020123 seconds 
+  Import took 0.025720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/AtmosphericHouse/Materials/Sidetables_clean.mat
+  artifactKey: Guid(667fb094ec53ecf49860b4821b1424a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Sidetables_clean.mat using Guid(667fb094ec53ecf49860b4821b1424a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea260c7d689ed98e1939e52f10e0422') in 0.019162 seconds 
+  Import took 0.024764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.610966 seconds.
+  path: Assets/AtmosphericHouse/Materials/Tables_clean.mat
+  artifactKey: Guid(10ce19ed6b94fa74bb7c54fdfbe56fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Tables_clean.mat using Guid(10ce19ed6b94fa74bb7c54fdfbe56fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d30e6cf202370b66452d8e37aacbc0b') in 0.015202 seconds 
+  Import took 0.020761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/AtmosphericHouse/Materials/TV_computer_clean.mat
+  artifactKey: Guid(113bc94b9e89f924f828742980d6b02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/TV_computer_clean.mat using Guid(113bc94b9e89f924f828742980d6b02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9caec8896783fcb7f6a404d4ac1f4c83') in 0.020109 seconds 
+  Import took 0.025429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.486669 seconds.
+  path: Assets/AtmosphericHouse/Materials/shiny.mat
+  artifactKey: Guid(af2e74ee52d7c4e189f803ca175f5693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/shiny.mat using Guid(af2e74ee52d7c4e189f803ca175f5693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f4076db516cd7a337c2ad4d0b1e287') in 0.011977 seconds 
+  Import took 0.017794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 393.554622 seconds.
+  path: Assets/AtmosphericHouse/Materials/shiny.mat
+  artifactKey: Guid(af2e74ee52d7c4e189f803ca175f5693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/shiny.mat using Guid(af2e74ee52d7c4e189f803ca175f5693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2878dac06c2684a5ba0a79486a30a92') in 0.011107 seconds 
+  Import took 0.016885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 561.894229 seconds.
+  path: Assets/AtmosphericHouse/Materials/White.mat
+  artifactKey: Guid(4ef12ef727a624446ad4337a6c37b4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/White.mat using Guid(4ef12ef727a624446ad4337a6c37b4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159be3a2d95abbde634a4de853699de2') in 0.011970 seconds 
+  Import took 0.017742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 250.042984 seconds.
+  path: Assets/AtmosphericHouse/Materials/White.mat
+  artifactKey: Guid(4ef12ef727a624446ad4337a6c37b4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/White.mat using Guid(4ef12ef727a624446ad4337a6c37b4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb3233fd73f6a81a2914bddaee6e707') in 0.011222 seconds 
+  Import took 0.017001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 288.003626 seconds.
+  path: Assets/Materials/Concrete/concrete_floor_01_diff_2k.png
+  artifactKey: Guid(41f5287eadff5fe4088f12132af59c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete/concrete_floor_01_diff_2k.png using Guid(41f5287eadff5fe4088f12132af59c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '830b2f40f079637d1478aefb50bbe1d0') in 0.011319 seconds 
+  Import took 0.018575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Materials/Concrete/concrete_floor_01_arm_2k.png
+  artifactKey: Guid(817e8d26f8cdfbb40b49586b9ec62fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete/concrete_floor_01_arm_2k.png using Guid(817e8d26f8cdfbb40b49586b9ec62fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470b5dd56434ca00d66f727c60574e49') in 0.010545 seconds 
+  Import took 0.016016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Materials/Concrete/concrete_floor_01_nor_gl_2k.png
+  artifactKey: Guid(105449947f0fa1f4c8b94b84fc3eeabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Concrete/concrete_floor_01_nor_gl_2k.png using Guid(105449947f0fa1f4c8b94b84fc3eeabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ff2140da7326b1d6c73b6c3676bfce') in 0.010963 seconds 
+  Import took 0.016600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.716085 seconds.
+  path: Assets/Materials/Plaster/white_plaster_02_nor_gl_2k.png
+  artifactKey: Guid(598297d22abbda646909dbbfc49505c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Plaster/white_plaster_02_nor_gl_2k.png using Guid(598297d22abbda646909dbbfc49505c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d503b1cf983cd31a26ebc285cf005e') in 0.011071 seconds 
+  Import took 0.016892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Materials/Plaster/white_plaster_02_arm_2k.png
+  artifactKey: Guid(95d60b32d9d5360448705c3c77b401a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Plaster/white_plaster_02_arm_2k.png using Guid(95d60b32d9d5360448705c3c77b401a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d80e0943d306cc41a57b3e8084c448') in 0.009800 seconds 
+  Import took 0.015236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 380.829359 seconds.
+  path: Assets/AtmosphericHouse/Materials/Neon
+  artifactKey: Guid(d9eec9d8048f04e1bbc02aaa7071f8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Neon using Guid(d9eec9d8048f04e1bbc02aaa7071f8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82785acae16c02dbff789b2c0455d649') in 0.001719 seconds 
+  Import took 0.007516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.401253 seconds.
+  path: Assets/AtmosphericHouse/Materials/Neon/Neon pink.mat
+  artifactKey: Guid(cb762db8c605046038a743ef61b8007f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Neon/Neon pink.mat using Guid(cb762db8c605046038a743ef61b8007f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b184bd04bb72f600bcee907b708cb1') in 0.014774 seconds 
+  Import took 0.020638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.418803 seconds.
+  path: Assets/AtmosphericHouse/Materials/Neon/Neon yellow.mat
+  artifactKey: Guid(26cd020913770418c8d3b23da83793e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Neon/Neon yellow.mat using Guid(26cd020913770418c8d3b23da83793e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e38c44e1931bfec89c046c86de64d0bc') in 0.012887 seconds 
+  Import took 0.018488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.040389 seconds.
+  path: Assets/AtmosphericHouse/Materials/Neon/Neon white.mat
+  artifactKey: Guid(f53b77dd0b3b64428962c39188c38596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Neon/Neon white.mat using Guid(f53b77dd0b3b64428962c39188c38596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9d3a0fb46e60f307bd4ddf3fcab4c5') in 0.011857 seconds 
+  Import took 0.017477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.816251 seconds.
+  path: Assets/AtmosphericHouse/Materials/Neon/Neon pink.mat
+  artifactKey: Guid(cb762db8c605046038a743ef61b8007f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Neon/Neon pink.mat using Guid(cb762db8c605046038a743ef61b8007f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d60a957e6e83e6add44660100eaea39') in 0.062870 seconds 
+  Import took 0.068523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.717234 seconds.
+  path: Assets/AtmosphericHouse/Materials/Neon/Neon white.mat
+  artifactKey: Guid(f53b77dd0b3b64428962c39188c38596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Neon/Neon white.mat using Guid(f53b77dd0b3b64428962c39188c38596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acbf59b4e5076ac0e3cc125250aeaf8d') in 0.010963 seconds 
+  Import took 0.016572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/AtmosphericHouse/Materials/Neon/Neon yellow.mat
+  artifactKey: Guid(26cd020913770418c8d3b23da83793e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AtmosphericHouse/Materials/Neon/Neon yellow.mat using Guid(26cd020913770418c8d3b23da83793e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960e5cb0d0535a71f7d506ff4205f2da') in 0.012415 seconds 
+  Import took 0.017928 seconds .
+
